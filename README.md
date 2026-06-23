@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-horizontal-light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/logo-horizontal-dark.svg">
-  <img src="assets/logo-horizontal-dark.svg" alt="Securqbit" height="48">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-horizontal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/logo-horizontal-light.svg">
+  <img src="assets/logo-horizontal-light.svg" alt="Securqbit" height="48">
 </picture>
 
 # Securqbit Documentation
