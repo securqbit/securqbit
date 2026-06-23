@@ -73,7 +73,3 @@ The website is localized into 12 languages: English, Français, Español, 中文
 - 🌐 Website: <https://securqbit.com>
 - 🐦 X / Twitter: <https://x.com/securqbit>
 - 💻 GitHub: <https://github.com/securqbit>
-
----
-
-© Securqbit. All rights reserved. · securqbit.com · iOS & Android
