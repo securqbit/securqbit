@@ -1,4 +1,8 @@
-<img src="assets/logo-horizontal-light.svg" alt="Securqbit" height="48">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-horizontal-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/logo-horizontal-dark.svg">
+  <img src="assets/logo-horizontal-dark.svg" alt="Securqbit" height="48">
+</picture>
 
 # Securqbit Documentation
 
@@ -63,19 +67,6 @@ There is also a machine‑readable [`llms.txt`](llms.txt) summary for AI assista
 ## Languages
 
 The website is localized into 12 languages: English, Français, Español, 中文, العربية, Русский, Türkçe, فارسی, Tiếng Việt, Bahasa Indonesia, 日本語, and Українська. This documentation is maintained in English.
-
-## Brand assets
-
-Logo files live in [`assets/`](assets/) for reference. Use the light variants on dark backgrounds and the dark variants on light backgrounds.
-
-| Asset | File |
-|-------|------|
-| Horizontal lockup (light) | [`logo-horizontal-light.svg`](assets/logo-horizontal-light.svg) |
-| Horizontal lockup (dark) | [`logo-horizontal-dark.svg`](assets/logo-horizontal-dark.svg) |
-| Icon mark (light) | [`logo-icon-light.svg`](assets/logo-icon-light.svg) · [512px PNG](assets/logo-icon-light-512.png) |
-| Icon mark (dark) | [`logo-icon-dark.svg`](assets/logo-icon-dark.svg) · [512px PNG](assets/logo-icon-dark-512.png) |
-| Wordmark only | [`logo-wordmark.svg`](assets/logo-wordmark.svg) |
-| Social banner | [`banner.png`](assets/banner.png) |
 
 ## Links
 
